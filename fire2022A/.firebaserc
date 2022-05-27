@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "proyectos-2022a-cdc6c": {
+      "hosting": {
+        "app": [
+          "proyectos-2022a-cdc6c"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "proyectos-2022a-cdc6c"
+  }
+}
